@@ -1,0 +1,50 @@
+body {
+    background-color: #eeeeee;
+}
+#section {
+    float: left;
+    font-family: Arial;
+    font-size: 14px;
+}
+.bold {
+    font-weight: bold;
+}
+.button {
+    background-color: red;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 1px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    float: right;
+    /* width: 50px; */
+    /* border: none; */
+}
+#normal {
+    font-weight: normal;
+}
+.img {
+    display: inline;
+    width: 40%;
+    float: left;
+    padding: 10px;
+}
+.none {
+    border: none;
+    padding: 0px;
+}
+.post {
+    border: 1px solid black;
+    padding: 14px;
+    overflow: auto;
+    width: 400px;
+    margin: 40px 0px 30px 0px;
+}
+p {
+    font-size: 15px;
+}

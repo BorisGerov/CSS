@@ -1,0 +1,37 @@
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 3px;
+    padding-right: 40px;
+}
+#green {
+    background-color: #0ac20d;
+    color: white;
+}
+tbody:nth-child(odd) {
+    background-color: #e6e0a8;
+}
+.city-mexico::before {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2000px-Flag_of_Mexico.svg.png);
+    background-size: 18px 10px;
+    display: inline-block;
+    width: 18px; 
+    height: 10px;
+    content:"";
+}
+#city-London::before {
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg);
+    background-size: 18px 10px;
+    display: inline-block;
+    width: 18px; 
+    height: 10px;
+    content:"";
+}
+#city-Berlin::before {
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png);
+    background-size: 18px 10px;
+    display: inline-block;
+    width: 18px; 
+    height: 10px;
+    content:"";
+}

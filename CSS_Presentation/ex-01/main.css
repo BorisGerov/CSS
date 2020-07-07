@@ -1,0 +1,15 @@
+body {
+    font-family: Consolas, Edwardian Script ITC;
+}
+div {
+    color: #0094ff;
+    word-wrap: normal;
+}
+p::first-letter {
+    font-size: 50px;
+    font-family: 'Tangerine';
+    font-style: normal;
+}
+#bb {
+    font-weight: bold;
+}

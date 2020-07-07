@@ -1,0 +1,29 @@
+.color-1 {
+    color: #f7f3ba;
+}
+body {
+    background-color: #b5b4a7;
+}
+.align {
+    text-align: center;
+}
+.back:hover {
+    background-color: lightgray;
+}
+.font {
+    font-size: x-small;
+}
+.under {
+    text-decoration: none;
+    color: white;
+}
+ul {
+    list-style-type: none;
+}
+#bo {
+    text-decoration: underline;
+    color: white;
+}
+#sav {
+    font-size: small;
+}

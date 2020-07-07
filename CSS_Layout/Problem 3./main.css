@@ -1,0 +1,44 @@
+body {
+    background-color:  #3a3a42;
+}
+header {
+    background-color: #3a3a42;
+}
+#img {
+    float: left;
+    width: 43px;
+    height: 30px;
+    display: block;
+    padding: 4px;
+    margin: 5px;
+    
+}
+#post {
+    color: white;
+}
+#button {
+    background-color: red;
+    border-radius: 10px;
+    border-color: white;
+    color: white;
+    width: 57px;
+    padding: 5px;
+    /* background-image: linear-gradient(white, red);    */
+}
+.memberLog {
+    width: 140px;
+    margin: 10px;
+}
+h2 {
+    color: #dbc51d;
+}
+main {
+    background-color: #5e5d52;
+}
+#bold {
+    /* font-weight: bold; */
+    color: white;
+}
+p {
+    color: #a19b9a;
+}
